@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Vincenzo!
+##  Hi, I'm Vincenzo!
 
 I'm a passionate **Front-End Developer** with experience in **HTML5**, **JavaScript**, **TypeScript**, and **React** to build modern and interactive web experiences. I enjoy creating clean, responsive, and user-friendly interfaces.
 
