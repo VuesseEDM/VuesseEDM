@@ -16,7 +16,7 @@ I'm a passionate **Front-End Developer**  and **Music Producer**
 ![](https://github-contributor-stats.vercel.app/api?username=VuesseEDM&limit=5&theme=monokai&combine_all_yearly_contributions=true)  
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox) 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)   
 
 
 ## 🌐 Socials:
